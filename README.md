@@ -4,7 +4,7 @@
 
 
 ### What
-Text goes here...
+Text goes here... 1st day created calculations to practise, learnt about pre and post incrementing.
 
 ### Why
 Text goes here...
