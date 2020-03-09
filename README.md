@@ -2,9 +2,9 @@
 
 ## Journel Entry 3
 
-What Why How
 
-Markdown | Less | Pretty
+
+### What | Why | How
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
