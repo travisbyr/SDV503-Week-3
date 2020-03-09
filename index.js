@@ -123,6 +123,7 @@ console.log(10 + 10 - '5');
 console.log('10' / '10');
 */
 // ----- 10/3/20 -----
+/*
 let a = (1 + 2, 3 + 4);
 console.log(a);
 
@@ -140,3 +141,35 @@ x %= 10;
 console.log(x);
 x **= 10;
 console.log(x);
+*/
+/*
+let x = 10;
+let y = 20;
+console.log(x);
+x = y;
+console.log(x);
+x +=y;
+console.log(x);
+x -= y;
+console.log(x);
+x *= y;
+console.log(x);
+x /= y;
+console.log(x);
+x %= y;
+console.log(x);
+*/
+var x = 10;
+var y = 5;
+
+if (x == y) {
+  console.log("X equals Y");
+} else if (x > y) {
+  console.log("X is greater than Y");
+} else {
+  console.log("X does not equal Y");
+}
+
+console.log(6 < "10"); // If 6 greater than 10, then true, else false.
+console.log(10 == "5"); // If 10 == 5, then true,
+console.log(10 === "10"); //"===", will display correct equation, if both data types are the same.
