@@ -90,6 +90,7 @@ let x = 10;
 let y = 5;
 console.log(x + y);
 */
+/*
 let a = "Hello, ";
 let b = "World!";
 console.log(a + b);
@@ -99,6 +100,23 @@ let e = c + d;
 console.log(e);
 let f = "My name is " + "String101";
 console.log(f);
+*/
+/*
+const firstWord = "Hello";
+const secondWord = "World";
 
+console.log(firstWord + secondWord);
+console.log(`${firstWord} ${secondWord}`); //Efficent to use in code
+*/
 
-  
+console.log(5 + 10);
+console.log(5 + '10');
+console.log('10' + 5);
+console.log(10 + 10 + '5');
+console.log('10' + '10');
+
+console.log(10 - 5);
+console.log(10 - '5');
+console.log(10 * '5');
+console.log(10 + 10 - '5');
+console.log('10' / '10');
