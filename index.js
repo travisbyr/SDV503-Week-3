@@ -173,7 +173,7 @@ if (x == y) {
 
 console.log(6 < "10"); // If 6 greater than 10, then true, else false.
 console.log(10 == "5"); // If 10 == 5, then true,
-console.log(10 === "10"); //"===", will display correct equation, if both data types are the same.
+console.log(10 === "10"); // "===", will display correct equation, if both data types are the same.
 */
 /*
 console.log(true == 1);
@@ -211,5 +211,10 @@ console.log(undefined === null);
 console.log(undefined >= 0);
 */
 console.log(null + 1);
-console.log(undefined > 0); //Undefined not a number
+console.log(undefined > 0); // Undefined not a number
 console.log(undefined + 1);
+
+console.log(true || true);
+console.log(true || false); // If one data type is true, outcome is true
+console.log(false || true);
+console.log(false || false);
