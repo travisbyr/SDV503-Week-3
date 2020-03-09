@@ -123,5 +123,20 @@ console.log(10 + 10 - '5');
 console.log('10' / '10');
 */
 // ----- 10/3/20 -----
+let a = (1 + 2, 3 + 4);
+console.log(a);
 
-
+let x = 10;
+console.log(x);
+x += 20;
+console.log(x);
+x -= 10;
+console.log(x);
+x *= 10;
+console.log(x);
+x /= 10;
+console.log(x);
+x %= 10;
+console.log(x);
+x **= 10;
+console.log(x);
