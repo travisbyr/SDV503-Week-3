@@ -195,6 +195,7 @@ console.log("Break" > "Brake");
 console.log("Lose" > "Loose");
 console.log("a" > "A");
 */
+/*
 console.log(1 == "1");
 console.log(1 === "1");
 console.log(" ");
@@ -203,3 +204,12 @@ console.log(1 === true); // different data types
 console.log(" ");
 console.log(0 == false);
 console.log(0 === false);
+*/
+/*
+console.log(undefined == null);
+console.log(undefined === null);
+console.log(undefined >= 0);
+*/
+console.log(null + 1);
+console.log(undefined > 0); //Undefined not a number
+console.log(undefined + 1);
