@@ -159,6 +159,7 @@ console.log(x);
 x %= y;
 console.log(x);
 */
+/*
 var x = 10;
 var y = 5;
 
@@ -173,3 +174,32 @@ if (x == y) {
 console.log(6 < "10"); // If 6 greater than 10, then true, else false.
 console.log(10 == "5"); // If 10 == 5, then true,
 console.log(10 === "10"); //"===", will display correct equation, if both data types are the same.
+*/
+/*
+console.log(true == 1);
+console.log(true == "1");
+console.log(true == 0);
+console.log(false == 1);
+console.log(false == 0);
+console.log(false == "0");
+console.log(" ");
+*/
+/*
+console.log("A" == "A");
+console.log("a" == "a");
+console.log(" ");
+console.log("Z" > "Z");
+console.log(" ");
+console.log("Raise" > "Race");
+console.log("Break" > "Brake");
+console.log("Lose" > "Loose");
+console.log("a" > "A");
+*/
+console.log(1 == "1");
+console.log(1 === "1");
+console.log(" ");
+console.log(1 == true);
+console.log(1 === true); // different data types
+console.log(" ");
+console.log(0 == false);
+console.log(0 === false);
