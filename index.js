@@ -218,3 +218,12 @@ console.log(true || true);
 console.log(true || false); // If one data type is true, outcome is true
 console.log(false || true);
 console.log(false || false);
+
+console.log(true || 0);
+console.log(1 || false);
+console.log(true || 1);
+console.log(false || 1);
+console.log(false || 0);
+console.log(0 || 0);
+
+console.log(true || true && false);
