@@ -4,7 +4,7 @@
 
 
 
-### What | Why | How
+What | Why | How
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
