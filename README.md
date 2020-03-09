@@ -1,3 +1,5 @@
 # SDV503-Week-3
 
-## H2 Test   
+## Journel Entry 3
+
+What Why How
